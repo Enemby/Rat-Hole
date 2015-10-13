@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My Assets\Scripts\Player\PlayerControl.js">
+    <Files>
+      <File FileName="Assets\My Assets\Scripts\Cinematic\Conversation.js" Line="28" Column="28" />
+      <File FileName="Assets\My Assets\Scripts\Level\Generator.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\PlayerControl.js" Line="45" Column="47" />
+      <File FileName="Assets\My Assets\Scripts\Camera\SmoothFollow.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Level\RandomWall.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Level\Room.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Camera\LookAtFinish.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Level\FinalLevel.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Menus\Titlescreen.js" Line="11" Column="19" />
+      <File FileName="Assets\My Assets\Scripts\AI\Enemy.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Props\Bullet.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\PlayerDeath.js" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Level\FinalTrigger.js" Line="6" Column="40" />
+      <File FileName="Assets\My Assets\Scripts\Menus\EscapeMenu.js" Line="3" Column="40" />
+      <File FileName="Assets\My Assets\Scripts\Cinematic\EndScript.js" Line="2" Column="17" />
+      <File FileName="Assets\My Assets\Scripts\Level\IntroSwitcher.js" Line="3" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
